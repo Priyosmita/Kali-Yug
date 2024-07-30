@@ -8,4 +8,4 @@ As humanity teeters on the brink, navigate desolate landscapes, scavenge for res
 - **Assets**: <img src="https://quixel.com/quixel_logo.png" alt="quixel bridge" width="30" height="35"/> <img src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.png" alt="sketchfab" width="40" height="40"/> <img src="https://static.wikia.nocookie.net/adobe/images/9/9c/Mixamo_2.0_logo.png/revision/latest?cb=20191212073142" alt="mixamo" width="150" height="40"/>
 
 ### Still in minor development and environment design phase
-### In Game Images
+### [Click here to view In Game Images](https://github.com/Priyosmita/Kali-Yug/tree/main/Environment%20Design) 
