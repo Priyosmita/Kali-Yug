@@ -9,7 +9,7 @@ Brace yourself for a gripping experience that challenges your survival instincts
 
 ## ⚙️ Tech Stack
 - **Full Stack**: <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="58" height="50"/> <br></br>
-- **Assets**: <img src="https://quixel.com/quixel_logo.png" alt="quixel bridge" width="30" height="35"/> <img src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.png" alt="sketchfab" width="40" height="40"/> <img src="https://static.wikia.nocookie.net/adobe/images/9/9c/Mixamo_2.0_logo.png/revision/latest?cb=20191212073142" alt="mixamo" width="150" height="40"/>
+- **Assets**: <img src="https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/0/f/1/0f1ff0047cb2d9979ce4e66da2177ce78943633e_2_690x211.png" alt="quixel bridge" width="100"/> <img src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.png" alt="sketchfab" width="40" height="40"/> <img src="https://static.wikia.nocookie.net/adobe/images/9/9c/Mixamo_2.0_logo.png/revision/latest?cb=20191212073142" alt="mixamo" width="150" height="40"/>
 
 ### Still in minor development and environment design phase
 ### [Click here to view In Game Images](https://github.com/Priyosmita/Kali-Yug/tree/main/Environment%20Design) 
